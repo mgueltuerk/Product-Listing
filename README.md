@@ -1,4 +1,4 @@
-# Product Listing with swipe
+# Product Listing with only right swipe
 
 
 ![Alt-Text](/ProductListing1.png)
